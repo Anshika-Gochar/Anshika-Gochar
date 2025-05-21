@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshika Gochar</h1>
-<h3 align="center">A passionate frontend developer from India and currently focussing on exploring  AI/ML and bit of cloud computing. </h3>
+<h3 align="center">A passionate MERN stack Enthusiast from India and currently focussing on exploring  AI/ML and solving real world problems. </h3>
 
-- 🌱 I’m currently learning **React,python libraries**
+- 🌱 I’m currently learning **backend,python libraries**
 
 - 📫 How to reach me **anshigochar2005@gmail.com**
 
